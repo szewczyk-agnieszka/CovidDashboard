@@ -1,0 +1,42 @@
+/* CSS Document */
+
+.card_container{
+	background-color: white;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	padding: 25px;
+	box-shadow:  2px 5px 5px 1px rgba(0, 0, 0, .3);
+}
+
+.card_container_other{
+	background-color: LightGrey;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	padding: 5px;
+	box-shadow:  2px 5px 5px 1px rgba(0, 0, 0, .3);
+}
+
+
+body {
+	margin: 2%;
+	background: WhiteSmoke;
+  	background-size: cover ;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+	margin-top: 0px;
+  	margin-bottom: 0px;
+  	padding-top: 3px;
+ 	padding-bottom: 3px;
+  	vertical-align: central;
+  	text-align: center;
+  	font-weight: 350;
+  	color: black;
+}
+
+
+
+
+
+
