@@ -58,5 +58,5 @@ Under some graphs you can find example conclusions which can be drawn from this 
 
 It is a multi-page dashboard with three pages: World, WHO Region and Others.
 
-The app has been deployed on Heroku and is visible here: http://agnieszkaszewczyk.pythonanywhere.com/apps/world
+The app has been deployed on PythonAnywhere and is visible here: http://agnieszkaszewczyk.pythonanywhere.com/apps/world
 
